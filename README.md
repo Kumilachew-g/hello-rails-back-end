@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [hello-rails-back-end] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Project Descriptions
 
 **[hello-rails-back-end]** is for the purpose to create a React front-end with a Rails back-end and connect them to display a random message.
 
@@ -108,9 +108,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
+## 🚀 Front-End Repo <a name="live-demo"></a>
 
-> Front-End Repo
+> Front-End Repo link
 
 - [Link](https://yourdeployedapplicationlink.com)
 
@@ -120,7 +120,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+<!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
 
@@ -145,8 +145,6 @@ Example commands:
   git https://github.com/Kumilachew-g/hello-rails-back-end.git
 ```
 
--
-
 ### Install
 
 Install this project with:
@@ -158,8 +156,6 @@ Example command:
   gem install
 ```
 
--
-
 ### Usage
 
 To run the project, execute the following command:
@@ -169,8 +165,6 @@ Example command:
 ```sh
   rails server
 ```
-
--
 
 <!-- ### Run tests
 
