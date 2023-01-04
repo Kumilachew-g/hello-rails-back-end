@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Rails Back-End</b></h3>
 
 </div>
 
@@ -70,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Tech stack that apply to my project.
 
 <details>
   <summary>Client</summary>
@@ -98,11 +98,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> Key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Display random message**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,9 +108,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Front-End Repo <a name="live-demo"></a>
 
-> Front-End Repo link
-
-- [Link](https://yourdeployedapplicationlink.com)
+ [Front-End Repo Link](https://github.com/Kumilachew-g/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
